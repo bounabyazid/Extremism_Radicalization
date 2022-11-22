@@ -20,6 +20,17 @@ This work is a part of EU project for identifying users with radical and extreme
 
 -[EMPATH](https://github.com/Ejhfast/empath-client)
 
--[]()
+-[WordNet]()
+
+## Cite us
+
+@article{BOUNAB2022, 
+  author = "Yazid BOUNAB and Mourad Oussalah", 
+  title = "{Radicalization and ERG22 in Social Media}", 
+  year = "2022", 
+  month = "11", 
+  url = "https://www.techrxiv.org/articles/preprint/Radicalization_and_ERG22_in_Social_Media/21542646", 
+  doi = "10.36227/techrxiv.21542646.v1"
+} 
 
 
